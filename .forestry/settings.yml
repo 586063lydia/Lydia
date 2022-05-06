@@ -7,8 +7,8 @@ sections:
 - type: heading
   label: Content
 - type: directory
-  path: content/homepage
-  label: Homepage
+  path: ''
+  label: 'Video Content '
   create: all
   match: "**/*"
 - type: document
